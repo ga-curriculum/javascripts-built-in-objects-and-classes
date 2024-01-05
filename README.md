@@ -1,44 +1,39 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[Using Classes]](./assets/tktk-hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module students will be introduced/take a deeper dive into JavaScript's built-in classes. Students will also create a basic application using the `Audio` class and some of its methods.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Introduction to JavaScript
+- Introduction to JavaScript Functions
+- Introduction to JavaScript Objects
+- Introduction to HTML
+- Introduction to the DOM
+- DOM Events
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Setup](./setup/README.md) | -- | -- | tktk skills covered |
+| [Built-In Objects](./built-in-objects/README.md) | -- | -- | tktk skills covered |
+| [Built-In Classes](./built-in-classes/README.md) | -- | -- | tktk skills covered |
+| [The Audio Class](./the-audio-class/README.md) | -- | -- | tktk skills covered |
 | **Total content**                                        | -- | -- |                     |
 
 ## Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
+| [Using Event Bubbling](./level-up/using-event-bubbling.md) | -- | -- | tktk skills covered |
+| [The Audio Element](./level-up/the-audio-element.md) | -- | -- | tktk skills covered |
 | **Total Level Up content**                                          | -- | -- |                     |
 
 ## References
 
 📖 [Reference Materials](./references/README.md)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
