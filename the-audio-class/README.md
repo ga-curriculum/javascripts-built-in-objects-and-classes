@@ -17,7 +17,7 @@ Playing audio in the browser is straightforward, thanks to:
 
 ### The `Audio` Class
 
-To demonstrate the use of JavaScript's built-in classes, we'll use the `Audio` class as an example. Serving as a **'blueprint'**, so to speak, the `Audio` class, allows us to create new instances (objects) that will play the intended sounds when a user interacts with our app. We'll just need to tell the `Audio` class what should should be assigned to the new instance, we we will do by passing in an argument.
+To demonstrate the use of JavaScript's built-in classes, we'll use the `Audio` class as an example. The `Audio` class allows us to create new instances (objects) that will play the intended sounds when a user interacts with our app. We just need to tell the `Audio` class what should be *assigned* to the new instance, which we will do by passing in an argument.
 
 Let's start with the cat. The first thing we'll do is set up a cached element reference for the cat image:
 
@@ -25,7 +25,7 @@ Let's start with the cat. The first thing we'll do is set up a cached element re
 const catImg = document.querySelector('#cat')
 ```
 
-To test out our cached element, we'll attach an event listener to its reference we just set up (`catImg`) and start with a simple `console.log()` when the image is clicked:
+To test out our cached element, we'll attach an event listener to the reference we just set up (`catImg`) and start with a simple `console.log()` when the image is clicked:
 
 ```jsx
 catImg.addEventListener("click", (evt) => {
@@ -55,7 +55,7 @@ The DOM element being created is an instance of [**HTMLAudioElement**](https://d
 
 However, it inherits its useful properties & methods from the [**HTMLMediaElement**](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement) class.
 
-![Object Heirarchy](./assets/object-heirarchy.png)
+![Object Hierarchy](./assets/object-heirarchy.png)
 
 The object hierarchy of the `HTMLAudioElement` provides a great example of the power of inheritance in OOP.
 

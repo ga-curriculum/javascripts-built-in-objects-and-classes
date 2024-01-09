@@ -4,9 +4,6 @@
 
 ## Built-In Objects
 
-If you have some hands-on experience with JavaScript, you have probably already used some of its [built-in objects and classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects). Let's take a look at a built-in JavaScript object before we get to a class.
-
-### Math object
 
 Let's use a ***very common*** built-in JavaScript object to allow us to work with object **methods (functions)** and **values**. The following line of code may seem familiar to you:
 

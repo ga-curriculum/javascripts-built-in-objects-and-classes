@@ -18,6 +18,7 @@ In this module students will be introduced/take a deeper dive into JavaScript's 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [Setup](./setup/README.md) | -- | -- | tktk skills covered |
+| [Concepts](./concepts/README.md) | -- | -- | tktk skills covered |
 | [Built-In Objects](./built-in-objects/README.md) | -- | -- | tktk skills covered |
 | [Built-In Classes](./built-in-classes/README.md) | -- | -- | tktk skills covered |
 | [The Audio Class](./the-audio-class/README.md) | -- | -- | tktk skills covered |
