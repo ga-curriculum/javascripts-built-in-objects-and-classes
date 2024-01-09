@@ -2,13 +2,13 @@
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
-## Classes and Objects in JavaScript
+## Built in Classes and Objects
 
 When it comes to built-in classes and objects in JavaScript, the practical differences between the two can be a bit confusing.
 
 In JavaScript, classes are used to generate or "construct" objects. The class is responsible for specifying what properties and methods will exist on the objects it generates. 
  
-At the same time, JavaScript objects inherit properties from *prototypes*. This is why, for example, the new array that you just created can access a `length` property, or can use the `.join()` method:
+At the same time, JavaScript objects inherit properties from *prototypes*. This is why, for example, a new array that you just created has access to a `length` property, or can use the `.join()` method:
 
 ```js
 const anArray = [1,2,3,4,5];
