@@ -17,7 +17,7 @@ Playing audio in the browser is straightforward, thanks to:
 
 ### The `Audio` Class
 
-Now to demonstrate the use of JavaScript's built-in classes, we'll use the `Audio` class as an example. Serving as a **'blueprint'**, so to speak, the `Audio` class, allows us to create new instances (objects) that will play the intended sounds when a user interacts with our app. We'll just need to tell the `Audio` class what should should be assigned to the new instance, we we will do by passing in an argument.
+To demonstrate the use of JavaScript's built-in classes, we'll use the `Audio` class as an example. Serving as a **'blueprint'**, so to speak, the `Audio` class, allows us to create new instances (objects) that will play the intended sounds when a user interacts with our app. We'll just need to tell the `Audio` class what should should be assigned to the new instance, we we will do by passing in an argument.
 
 Let's start with the cat. The first thing we'll do is set up a cached element reference for the cat image:
 

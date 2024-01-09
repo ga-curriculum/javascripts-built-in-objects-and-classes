@@ -1,6 +1,5 @@
 # ![[Using Classes] - Setup](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to fork and clone starter code which will allow them to practice utilizing JavaScript standard built-in classes.
 
 Here’s the **[link to the repository we will be using for this lesson](https://git.generalassemb.ly/modular-curriculum-all-courses/using-classes-starter-code)**.
 
