@@ -4,11 +4,11 @@
 
 ## Built-In Classes
 
-<!-- The JavaScript Math object in the previous lesson contains a lot of useful methods and values that we can reference. We don't characterize the Math object as a class though because we cannot use it to ***instantiate (create) new objects***. This makes sense, I mean, how many instances of the number `4` would we actually need?
+The JavaScript Math object in the previous lesson contains a lot of useful methods and values that we can reference. We don't characterize the Math object as a class though because we cannot use it to instantiate (create) new objects. This makes sense, I mean, how many instances of the number `4` would we actually need?
 
-So let's take a look at a JavaScript [built-in class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects) now. -->
+So let's take a look at a JavaScript [built-in class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects) now.
 
-A *great* example of a common built-in ***JavaScript class*** is its [`Date` class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date). There are many reasons for creating different instances of `Date` objects (*for example, birthdays, anniversaries, dates and times for timecards, dates for to do lists, calendar events, etc.*)
+A great example of a common built-in JavaScript class is its [`Date` class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date). There are many reasons for creating different instances of `Date` objects (*for example, birthdays, anniversaries, dates and times for timecards, dates for to do lists, calendar events, etc.*)
 
 Let's utilize JavaScript's `Date` class to instantiate a new `Date` object using a date string:
 
