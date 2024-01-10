@@ -1,4 +1,4 @@
-# ![[Using Classes] - Level Up - The Audio Element](./assets/hero.png)
+# ![Using JavaScript Classes - Level Up - The Audio Element](./assets/hero.png)
 
 ## The `<audio>` element
 

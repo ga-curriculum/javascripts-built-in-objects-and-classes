@@ -1,4 +1,4 @@
-# ![[Using Classes] - Concepts](./assets/hero.png)
+# ![Using JavaScript Classes - Concepts](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able understand how built-in classes and objects work in JavaScript.
 

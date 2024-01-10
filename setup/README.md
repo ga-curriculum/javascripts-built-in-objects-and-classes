@@ -1,4 +1,4 @@
-# ![[Using Classes] - Setup](./assets/hero.png)
+# ![Using JavaScript Classes - Setup](./assets/hero.png)
 
 
 Here’s the **[link to the repository we will be using for this lesson](https://git.generalassemb.ly/modular-curriculum-all-courses/using-classes-starter-code)**.

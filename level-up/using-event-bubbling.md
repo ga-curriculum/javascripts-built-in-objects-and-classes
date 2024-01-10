@@ -1,4 +1,4 @@
-# ![[Using Classes] - Level Up - Event Bubbling](./assets/hero.png)
+# ![Using JavaScript Classes - Level Up - Event Bubbling](./assets/hero.png)
 
 In the **`💪 You Do`** in this lesson, you were tasked with using the JavaScript built-in `Audio` class to add sounds to the remaining images.
 

@@ -1,4 +1,4 @@
-# ![[Using Classes] - Built-In Objects](./assets/hero.png)
+# ![Using JavaScript Classes - Built-In Objects](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to understand and recognize built-in JavaScript objects and utilize their values and methods.
 

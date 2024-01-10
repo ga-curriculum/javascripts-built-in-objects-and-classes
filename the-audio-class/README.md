@@ -1,4 +1,4 @@
-# ![[Using Classes] - The Audio Class](./assets/hero.png)
+# ![Using JavaScript Classes - The Audio Class](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to make use of a built-in JavaScript class and successfully add audio to an application.
 
