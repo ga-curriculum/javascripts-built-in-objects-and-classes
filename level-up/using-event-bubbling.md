@@ -2,9 +2,7 @@
 
 In the **`💪 You Do`** in this lesson, you were tasked with using the JavaScript built-in `Audio` class to add sounds to the remaining images.
 
-Congratulations on making that happen! 🎉
-
-Now, if you repeated the same process by hard-coding cached element references for each and every image on the page, it gets the job done, but that wouldn't be very **DRY**.
+You could have repeated the same process by hard-coding cached element references for each and every image on the page, but that wouldn't be very **DRY**.
 
 Let's use what we've learned about DOM manipulation to have JavaScript do all the work for us!
 
@@ -26,5 +24,5 @@ notCatDiv.addEventListener("click", (evt) => {
 })
 ```
 
-> 🧠 The reason we're able to do this is because someone's *cleverly* named the audio files using the same exact spelling/casing as the `id` values for each of the images!
+> 🧠 The reason we're able to do this is because we named the audio files using the same exact spelling/casing as the `id` values for each of the images! As a result, we're able to dynamically associate the two. 
 
