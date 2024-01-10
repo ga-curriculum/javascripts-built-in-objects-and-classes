@@ -1,34 +1,38 @@
-# ![[Using Classes] - Built-In Objects](./assets/hero.png)
+# ![Using JavaScript Classes - Built-In Objects](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to understand and recognize built-in JavaScript objects and utilize their values and methods.
 
 ## Built-In Objects
 
-If you have some hands-on experience with JavaScript, you have probably already used some of its [built-in objects and classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects). Let's take a look at a built-in JavaScript object before we get to a class.
+One commonly used built-in JavaScript object is [`Math`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math). If you've ever required the use of random numbers in code you've written, for example, then `Math` has many **methods** that are extremely useful, saving you the time of writing commonly reused code.
 
-### Math object
-
-Let's use a ***very common*** built-in JavaScript object to allow us to work with object **methods (functions)** and **values**. The following line of code may seem familiar to you:
+Key among them is `.random()`, a method that returns a number greater than or equal to 0, and less than 1: 
 
 ```js
 Math.random() // example result: 0.5570349614485068
 ```
 
-If you've ever required the use of random numbers in code you've written, JavaScript's [`Math` object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) has many **methods** contained within it that are extremely useful to developers such as yourself, saving you the time of writing commonly reused code.
-
-Some of these methods also take in arguments. Such is the case with the `.floor()` method in the Math object.
+Some of these methods also take in arguments. Such is the case with the `.floor()` method, which rounds down an argument:
 
 ```js
 let num = 1.21
 Math.floor(num) // => 1
 ```
 
-Passing in a variable with a value of type `Number` (or just the raw value of a `Number`) this method has a return value of the largest integer less than or equal to the value of `num`. In other words, it truncates everything after the decimal.
+This method has a return value of the largest integer less than or equal to the value of `num`. In other words, it truncates everything after the decimal.
+
+When combined, you can see how the built-in Math object can dramatically shorten code and make life easier. Without having to code out either method, we can create a function that gets a random integer from a maximum value: 
+
+```js
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+}
+```
 
 In addition to **methods**, the JavaScript Math object also contains certain values, such as PI:
 
 ```js
-Math.PI // is equal to: 3.141592653589793
+Math.PI // => 3.141592653589793
 ```
 
 Now that we've taken a look at an example of a built-in Javascript object and refreshed ourselves on dot notation, let's take a look at a built in class.
