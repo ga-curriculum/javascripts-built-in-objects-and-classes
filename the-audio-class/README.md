@@ -2,22 +2,20 @@
 
 **Learning objective:** By the end of this lesson, students will be able to make use of a built-in JavaScript class and successfully add audio to an application.
 
-
 ## Built-In Audio Class
 
 In this lesson, we'll be using the [built-in JavaScript Audio class in conjunction with an HTMLAudioElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio) to be able to play sounds when a user interacts with the browser.
 
-
-### The `HTMLAudioElement` API
+## The `HTMLAudioElement` API
 
 Playing audio in the browser is straightforward, thanks to:
 
 1. HTML5’s `<audio>` element which can be added to any webpage (multiple instances if need be), and
 2. the *HTMLAudioElement* DOM interface that can be used to create an audio element in code using JS.
 
-### The `Audio` Class
+## The `Audio` Class
 
-To demonstrate the use of JavaScript's built-in classes, we'll use the `Audio` class as an example. The `Audio` class allows us to create new instances (objects) that will play the intended sounds when a user interacts with our app. We just need to tell the `Audio` class what should be *assigned* to the new instance, which we will do by passing in an argument.
+To demonstrate the use of JavaScript's built-in classes, we'll use the `Audio` class. The `Audio` class allows us to create new instances (objects) that will play the intended sounds when a user interacts with our app. We just need to tell the `Audio` class what should be *assigned* to the new instance, which we will do by passing in an argument.
 
 Let's start with the cat. The first thing we'll do is set up a cached element reference for the cat image:
 
@@ -39,7 +37,7 @@ In order to set up a new `HTMLAudioElement`, all we need to do is initialize a v
 const catSays = new Audio("../audio/cat.mp3")
 ```
 
-Once we've done that, `catSays` is our new instance of the `Audio` class, which now has all of the built-in values and methods available to use. We can then play the audio file by invoking the `play()` method!  **Don't forget to adjust the volume so you don't melt your user's ears:**
+Once we've done that, `catSays` is a new instance of the `Audio` class, which has all of the built-in values and methods of the Audio class available. We can play the audio file by invoking the `play()` method!  **Don't forget to adjust the volume so you don't melt your user's ears:**
 
 ```jsx
 catImg.addEventListener("click", (evt) => {
@@ -48,7 +46,7 @@ catImg.addEventListener("click", (evt) => {
 })
 ```
 
-Clicking on the cat image should now be working purr-fectly! 🎉
+Try clicking on the cat image now!
 
 The DOM element being created is an instance of [**HTMLAudioElement**](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement).
 
@@ -57,13 +55,13 @@ However, it inherits its useful properties & methods from the [**HTMLMediaElemen
 
 ![Object Hierarchy](./assets/object-heirarchy.png)
 
-The object hierarchy of the `HTMLAudioElement` provides a great example of the power of inheritance in OOP.
+The object hierarchy of the `HTMLAudioElement` provides a great example of the power of inheritance in Object Oriented Programming.
 
 ## 💪 You Do
 
 Now that the cat makes sounds, we need to get the other animals doing the same. That will be up to you.
 
-Here is some commented code of the steps we used to get the cat meowing. You can reference this here or even paste it into your own code to help you out:
+Here is some commented pseudocode of the steps we used to get the cat meowing. You can reference this here, or even paste it into your own code to help you out:
 
 ```jsx
 // Add event listener to <element>
