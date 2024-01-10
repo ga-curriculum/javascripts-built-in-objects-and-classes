@@ -18,18 +18,18 @@ In this module students will be introduced/take a deeper dive into JavaScript's 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [Setup](./setup/README.md) | -- | -- | -- |
-| [Concepts](./concepts/README.md) | -- | -- | tktk skills covered |
-| [Built-In Objects](./built-in-objects/README.md) | -- | -- | tktk skills covered |
-| [Built-In Classes](./built-in-classes/README.md) | -- | -- | tktk skills covered |
-| [The Audio Class](./the-audio-class/README.md) | -- | -- | tktk skills covered |
+| [Concepts](./concepts/README.md) | -- | -- | Understanding built-in objects and classes. |
+| [Built-In Objects](./built-in-objects/README.md) | -- | -- | The Math object and using its methods to generate random numbers. |
+| [Built-In Classes](./built-in-classes/README.md) | -- | -- | The Date class and instance vs. static methods. |
+| [The Audio Class](./the-audio-class/README.md) | -- | -- | Using the Audio class to generate audio on click. |
 | **Total content**                                        | -- | -- |                     |
 
 ## Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Using Event Bubbling](./level-up/using-event-bubbling.md) | -- | -- | tktk skills covered |
-| [The Audio Element](./level-up/the-audio-element.md) | -- | -- | tktk skills covered |
+| [Using Event Bubbling](./level-up/using-event-bubbling.md) | -- | -- | Using event bubbling to make DRY-er code.  |
+| [The Audio Element](./level-up/the-audio-element.md) | -- | -- | The Audio element and further learning. |
 | **Total Level Up content**                                          | -- | -- |                     |
 
 ## References

@@ -8,7 +8,7 @@ This release modularizes the legacy Using JavaScript Classes lecture and provide
 
 #### Additions
 
-Concepts microlesson covering built-in classes and objects
+Concepts micro-lesson covering built-in classes and objects
 
 #### Changes
 
