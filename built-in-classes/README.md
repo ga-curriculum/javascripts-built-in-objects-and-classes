@@ -49,8 +49,3 @@ if (birthday.getTime() < Date.now()) {
     console.log("Happy belated birthday!")
 }
 ```
-
-From this sample of code above, we can get some basic ideas of what classes do:
-- Classes create objects through the [new](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new) operator.
-- Each ***object*** has some properties (data or method) added by the class.
-- The ***class*** stores some properties (data or method) itself, which are usually used to interact with instances.
