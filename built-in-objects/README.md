@@ -4,7 +4,7 @@
 
 ## Built-In Objects
 
-One commonly used built-in JavaScript object is [`Math`]((https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)). If you've ever required the use of random numbers in code you've written, for example, then `Math` has many **methods** that are extremely useful, saving you the time of writing commonly reused code.
+One commonly used built-in JavaScript object is [`Math`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math). If you've ever required the use of random numbers in code you've written, for example, then `Math` has many **methods** that are extremely useful, saving you the time of writing commonly reused code.
 
 Key among them is `.random()`, a method that returns a number greater than or equal to 0, and less than 1: 
 

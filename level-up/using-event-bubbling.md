@@ -28,4 +28,3 @@ notCatDiv.addEventListener("click", (evt) => {
 
 > 🧠 The reason we're able to do this is because someone's *cleverly* named the audio files using the same exact spelling/casing as the `id` values for each of the images!
 
-How paw-some is that?! 🎉

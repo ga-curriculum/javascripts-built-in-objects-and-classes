@@ -1,6 +1,6 @@
 # ![[Using Classes] - Concepts](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able understand how built-in classes and objects work in JavaScript.
 
 ## Built in Classes and Objects
 
