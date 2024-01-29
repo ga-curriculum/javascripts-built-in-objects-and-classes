@@ -17,7 +17,7 @@ In this module students will be introduced/take a deeper dive into JavaScript's 
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md) | -- | -- | -- |
+| [Setup](./setup/README.md) | -- | -- | Setting up the development environment |
 | [Concepts](./concepts/README.md) | -- | -- | Understanding built-in objects and classes. |
 | [Built-In Objects](./built-in-objects/README.md) | -- | -- | The Math object and using its methods to generate random numbers. |
 | [Built-In Classes](./built-in-classes/README.md) | -- | -- | The Date class and instance vs. static methods. |
