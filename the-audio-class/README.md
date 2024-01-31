@@ -15,7 +15,7 @@ Playing audio in the browser is straightforward, thanks to:
 
 ## The `Audio` Class
 
-To demonstrate the use of JavaScript's built-in classes, we'll use the `Audio` class. The `Audio` class allows us to create new instances (objects) that will play the intended sounds when a user interacts with our app. We just need to tell the `Audio` class what should be *assigned* to the new instance, which we will do by passing in an argument.
+The `Audio` class allows us to create new instances (objects) that will play the intended sounds when a user interacts with our app. We just need to tell the `Audio` class what should be *assigned* to the new instance, which we will do by passing in an argument.
 
 Let's start with the cat. The first thing we'll do is set up a cached element reference for the cat image:
 
