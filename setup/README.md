@@ -2,34 +2,44 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your `~/code/ga/labs` directory:
+Open your Terminal application and navigate to your **`~/code/ga/lectures`** directory:
 
 ```bash
-cd ~/code/ga/labs
+cd ~/code/ga/lectures
 ```
 
-Fork the [using-javascript-classes-starter-code](https://git.generalassemb.ly/modular-curriculum-all-courses/using-javascript-classes-starter-code) repository.
-
-Clone a copy of your remote repo locally by using the `git clone` command:
+Make a new directory called **`using-javascript-classes`**, then enter this directory:
 
 ```bash
-git clone https://git.generalassemb.ly/<your-username>/using-javascript-classes-starter-code.git
+mkdir using-javascript-classes
+cd using-javascript-classes
 ```
 
-> 📚 Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
-
-Next, `cd` into your new cloned directory, `using-javascript-classes-starter-code`:
+Then, create an `app.js` and an `index.html` file. These files will hold your work for this lecture:
 
 ```bash
-cd using-javascript-classes-starter-code
+touch index.html app.js
 ```
-
-Open the project's folder in your code editor:
+With the files created, open the contents of the directory in VS Code:
 
 ```bash
 code .
 ```
 
-Open your `index.html` file in the browser. You should see something like this:
+Open the `index.html` file and add HTML boilerplate by typing `!` and then hitting the `Tab` key. Then link the `app.js` file by adding this line inside the `<head>` tag:
 
-![Starter Browser Page](./assets/starter-page.png)
+```html
+<script defer src="./app.js"></script>
+```
+
+With this setup complete, we'll have two methods at our disposal for executing the code we write in `app.js`:
+
+- Open the `index.html` file in your browser and access the console output in your browser's dev tools.
+
+- Use node to execute the `app.js` file directly by using this command in your terminal:
+
+  ```bash
+  node app.js
+  ```
+
+While either method is acceptable, you should use the same method as your instructor for simplicity.

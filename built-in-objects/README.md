@@ -1,6 +1,6 @@
 # ![Using JavaScript Classes - Built-In Objects](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will recognize built-in JavaScript objects and understand how to utilize their values and methods.
+**Learning objective:** By the end of this lesson, learners will be able to use and explain JavaScript's Math object, applying methods such as .random() and .floor(), and create functions for generating random integers.
 
 ## Built-In Objects
 

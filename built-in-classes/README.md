@@ -1,6 +1,6 @@
 # ![Using JavaScript Classes - Built-In Classes](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will understand and recognize built-in JavaScript classes and utilize their values and methods.
+**Learning objective:** By the end of this lesson, learners will be able to differentiate between built-in `objects` and `classes` in JavaScript, specifically demonstrating the ability to use the `Date` class to create and manipulate date objects.
 
 ## Built-In Classes
 
