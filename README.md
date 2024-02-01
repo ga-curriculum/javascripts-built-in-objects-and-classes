@@ -1,8 +1,8 @@
-# ![Using JavaScript Classes](./assets/tktk-hero.png)
+# ![JavaScript's Built-in Objects and Classes](./assets/tktk-hero.png)
 
 ## About
 
-In this module we'll explore the distinction between built-in objects and classes in JavaScript, focusing on the `Math` object and the `Date` class. This lesson is tailored for beginners with foundational knowledge of javascript objects.
+In this module we'll explore the distinction between built-in objects and classes in JavaScript, focusing on the `Math` object and the `Date` class. This lesson is designed for beginners with foundational knowledge of javascript objects.
 
 ## Prerequisites
 

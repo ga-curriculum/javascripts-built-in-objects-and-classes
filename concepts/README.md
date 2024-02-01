@@ -1,4 +1,4 @@
-# ![Using JavaScript Classes - Concepts](./assets/hero.png)
+# ![JavaScript's Built-in Objects and Classes - Concepts](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to understand how built-in classes and objects differ in JavaScript.
 

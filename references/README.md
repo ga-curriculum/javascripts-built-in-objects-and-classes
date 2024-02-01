@@ -1,4 +1,4 @@
-# ![Using JavaScript Classes - References](./assets/hero.png)
+# ![JavaScript's Built-in Objects and Classes - References](./assets/hero.png)
 
 ## Lesson references
 

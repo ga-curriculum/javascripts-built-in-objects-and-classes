@@ -1,4 +1,4 @@
-# ![Using JavaScript Classes - Setup](./assets/hero.png)
+# ![JavaScript's Built-in Objects and Classes - Setup](./assets/hero.png)
 
 ## Setup
 
@@ -8,11 +8,11 @@ Open your Terminal application and navigate to your **`~/code/ga/lectures`** dir
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called **`using-javascript-classes`**, then enter this directory:
+Make a new directory called **`javascripts-built-in-objects-and-classes`**, then enter this directory:
 
 ```bash
-mkdir using-javascript-classes
-cd using-javascript-classes
+mkdir javascripts-built-in-objects-and-classes
+cd javascripts-built-in-objects-and-classes
 ```
 
 Then, create an `app.js` and an `index.html` file. These files will hold your work for this lecture:
