@@ -1,4 +1,4 @@
-# ![JavaScript's Built-in Objects and Classes](./assets/tktk-hero.png)
+# ![JavaScript's Built-in Objects and Classes](./assets/hero.png)
 
 ## About
 
