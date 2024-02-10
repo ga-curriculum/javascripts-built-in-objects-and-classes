@@ -71,7 +71,7 @@ console.log(time); // 1685491200000
 All of these helpful instance methods (and more) are attached to our new date object right out of the box. 
 
 
-## Static (class) methods
+### Static (class) methods
 
 There are also methods we can call on the `Date` class itself and these are called ***static methods***.
 
