@@ -1,4 +1,7 @@
-# ![JavaScript's Built-in Objects and Classes - Built-In Objects](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript's Built in Objects and Classes</span>
+  <span class="subhead">Built in Objects</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, learners will be able to use and explain JavaScript's Math object, applying methods such as .random() and .floor(), and create functions for generating random integers.
 
