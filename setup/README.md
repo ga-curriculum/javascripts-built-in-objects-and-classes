@@ -1,4 +1,7 @@
-# ![JavaScript's Built-in Objects and Classes - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript's Built in Objects and Classes</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 

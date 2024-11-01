@@ -1,4 +1,7 @@
-# ![JavaScript's Built-in Objects and Classes - Built-In Classes](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript's Built in Objects and Classes</span>
+  <span class="subhead">Built in Classes</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, learners will be able to differentiate between built-in `objects` and `classes` in JavaScript, specifically demonstrating the ability to use the `Date` class to create and manipulate date objects.
 
