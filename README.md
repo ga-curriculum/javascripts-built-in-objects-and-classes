@@ -28,6 +28,11 @@ In this module we'll explore the distinction between built-in objects and classe
 - Javascript Functions
 - Javascript Objects
 
+### Github Pages Sites
+
+- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascripts-built-in-objects-and-classes/canvas-landing-pages/fallback)
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascripts-built-in-objects-and-classes/canvas-landing-pages/seb)
+
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
