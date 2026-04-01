@@ -30,8 +30,8 @@ In this module we'll explore the distinction between built-in objects and classe
 
 ### Course landing pages
 
-- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascripts-built-in-objects-and-classes/canvas-landing-pages/fallback)
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascripts-built-in-objects-and-classes/canvas-landing-pages/seb)
+- [Default Landing Page](https://ga-curriculum.github.io/javascripts-built-in-objects-and-classes/canvas-landing-pages/fallback)
+- [SEB - Software Engineering Bootcamp](https://ga-curriculum.github.io/javascripts-built-in-objects-and-classes/canvas-landing-pages/seb)
 
 ### Resources
 
@@ -43,4 +43,4 @@ In this module we'll explore the distinction between built-in objects and classe
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback)!**
